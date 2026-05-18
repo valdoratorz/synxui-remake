@@ -1,0 +1,11 @@
+local TextChatService = game:GetService("TextChatService")
+
+TextChatService.OnIncomingMessage = function(chatMessage: TextChatMessage)
+	local txtProperties = Instance.new("TextChatMessageProperties")
+	if chatMessage.Text then
+		txtProperties.PrefixText = string.gsub(chatMessage.PrefixText, ":$", utf8.char(0xE000)..":")
+	end
+	return txtProperties
+end
+
+-- this gives you the verified badge in chat

@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{498FAB3A-66BA-40A0-9F2D-84E84AE16CDA}|synapsex.csproj|c:\\users\\segcent\\desktop\\usb\\computer windows\\documents\\synapsex - copy\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498FAB3A-66BA-40A0-9F2D-84E84AE16CDA}|synapsex.csproj|solutionrelative:loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498FAB3A-66BA-40A0-9F2D-84E84AE16CDA}|synapsex.csproj|C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498FAB3A-66BA-40A0-9F2D-84E84AE16CDA}|synapsex.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498FAB3A-66BA-40A0-9F2D-84E84AE16CDA}|synapsex.csproj|C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{498FAB3A-66BA-40A0-9F2D-84E84AE16CDA}|synapsex.csproj|solutionrelative:loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498FAB3A-66BA-40A0-9F2D-84E84AE16CDA}|synapsex.csproj|C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{498FAB3A-66BA-40A0-9F2D-84E84AE16CDA}|synapsex.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498FAB3A-66BA-40A0-9F2D-84E84AE16CDA}|synapsex.csproj|C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{498FAB3A-66BA-40A0-9F2D-84E84AE16CDA}|synapsex.csproj|solutionrelative:options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498FAB3A-66BA-40A0-9F2D-84E84AE16CDA}|synapsex.csproj|C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\scripthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{498FAB3A-66BA-40A0-9F2D-84E84AE16CDA}|synapsex.csproj|solutionrelative:scripthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498FAB3A-66BA-40A0-9F2D-84E84AE16CDA}|synapsex.csproj|C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498FAB3A-66BA-40A0-9F2D-84E84AE16CDA}|synapsex.csproj|solutionrelative:options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498FAB3A-66BA-40A0-9F2D-84E84AE16CDA}|synapsex.csproj|C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\loader.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498FAB3A-66BA-40A0-9F2D-84E84AE16CDA}|synapsex.csproj|solutionrelative:loader.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498FAB3A-66BA-40A0-9F2D-84E84AE16CDA}|synapsex.csproj|C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498FAB3A-66BA-40A0-9F2D-84E84AE16CDA}|synapsex.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498FAB3A-66BA-40A0-9F2D-84E84AE16CDA}|synapsex.csproj|C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\scripthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498FAB3A-66BA-40A0-9F2D-84E84AE16CDA}|synapsex.csproj|solutionrelative:scripthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498FAB3A-66BA-40A0-9F2D-84E84AE16CDA}|synapsex.csproj|C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\scripthub.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498FAB3A-66BA-40A0-9F2D-84E84AE16CDA}|synapsex.csproj|solutionrelative:scripthub.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498FAB3A-66BA-40A0-9F2D-84E84AE16CDA}|synapsex.csproj|C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{498FAB3A-66BA-40A0-9F2D-84E84AE16CDA}|synapsex.csproj|solutionrelative:properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498FAB3A-66BA-40A0-9F2D-84E84AE16CDA}|synapsex.csproj|C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498FAB3A-66BA-40A0-9F2D-84E84AE16CDA}|synapsex.csproj|solutionrelative:main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScriptHub.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\ScriptHub.Designer.cs",
+              "RelativeDocumentMoniker": "ScriptHub.Designer.cs",
+              "ToolTip": "C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\ScriptHub.Designer.cs",
+              "RelativeToolTip": "ScriptHub.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:00:16.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:00:16.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Options.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\Options.cs",
+              "RelativeDocumentMoniker": "Options.cs",
+              "ToolTip": "C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\Options.cs [Design]",
+              "RelativeToolTip": "Options.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:00:16.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T01:24:28.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Loader.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\Loader.cs",
+              "RelativeDocumentMoniker": "Loader.cs",
+              "ToolTip": "C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\Loader.cs [Design]",
+              "RelativeToolTip": "Loader.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:00:16.633Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Loader.cs",
+              "DocumentMoniker": "C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\Loader.cs",
+              "RelativeDocumentMoniker": "Loader.cs",
+              "ToolTip": "C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\Loader.cs",
+              "RelativeToolTip": "Loader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:00:16.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\Main.cs [Design]",
+              "RelativeToolTip": "Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T00:35:37.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "Main.Designer.cs",
+              "ToolTip": "C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\Main.Designer.cs",
+              "RelativeToolTip": "Main.Designer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:00:16.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScriptHub.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\ScriptHub.cs",
+              "RelativeDocumentMoniker": "ScriptHub.cs",
+              "ToolTip": "C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\ScriptHub.cs [Design]",
+              "RelativeToolTip": "ScriptHub.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T00:35:39.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScriptHub.cs",
+              "DocumentMoniker": "C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\ScriptHub.cs",
+              "RelativeDocumentMoniker": "ScriptHub.cs",
+              "ToolTip": "C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\ScriptHub.cs",
+              "RelativeToolTip": "ScriptHub.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAuwJUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:00:16.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Options.cs",
+              "DocumentMoniker": "C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\Options.cs",
+              "RelativeDocumentMoniker": "Options.cs",
+              "ToolTip": "C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\Options.cs",
+              "RelativeToolTip": "Options.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA6wCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T18:00:16.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Loader.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\Loader.Designer.cs",
+              "RelativeDocumentMoniker": "Loader.Designer.cs",
+              "ToolTip": "C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\Loader.Designer.cs",
+              "RelativeToolTip": "Loader.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T01:03:40.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\segcent\\Desktop\\usb\\computer windows\\Documents\\synapsex - Copy\\Properties\\Settings.settings",
+              "RelativeToolTip": "Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-12-19T18:00:16.633Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

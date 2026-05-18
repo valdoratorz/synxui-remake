@@ -1,0 +1,47 @@
+C:\Users\emac3\source\repos\synapsex\bin\Debug\synapsex.exe.config
+C:\Users\emac3\source\repos\synapsex\bin\Debug\synapsex.exe
+C:\Users\emac3\source\repos\synapsex\bin\Debug\synapsex.pdb
+C:\Users\emac3\source\repos\synapsex\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\emac3\source\repos\synapsex\bin\Debug\Newtonsoft.Json.xml
+C:\Users\emac3\source\repos\synapsex\bin\Debug\System.Buffers.xml
+C:\Users\emac3\source\repos\synapsex\bin\Debug\System.Memory.xml
+C:\Users\emac3\source\repos\synapsex\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\emac3\source\repos\synapsex\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\emac3\source\repos\synapsex\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\emac3\source\repos\synapsex\obj\Debug\synapsex.csproj.AssemblyReference.cache
+C:\Users\emac3\source\repos\synapsex\obj\Debug\synapsex.Load.resources
+C:\Users\emac3\source\repos\synapsex\obj\Debug\synapsex.Login.resources
+C:\Users\emac3\source\repos\synapsex\obj\Debug\synapsex.Main.resources
+C:\Users\emac3\source\repos\synapsex\obj\Debug\synapsex.Properties.Resources.resources
+C:\Users\emac3\source\repos\synapsex\obj\Debug\synapsex.csproj.GenerateResource.cache
+C:\Users\emac3\source\repos\synapsex\obj\Debug\synapsex.csproj.CoreCompileInputs.cache
+C:\Users\emac3\source\repos\synapsex\obj\Debug\synapsex.csproj.Up2Date
+C:\Users\emac3\source\repos\synapsex\obj\Debug\synapsex.exe
+C:\Users\emac3\source\repos\synapsex\obj\Debug\synapsex.pdb
+C:\Users\emac3\source\repos\synapsex\obj\Debug\synapsex.OptionsForm.resources
+C:\Users\emac3\source\repos\synapsex\obj\Debug\synapsex.csproj.Fody.CopyLocal.cache
+C:\Users\emac3\source\repos\synapsex\obj\Debug\synapsex.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\emac3\source\repos\synapsex\bin\Debug\AceWinforms.dll.config
+C:\Users\emac3\Documents\synapsex - Copy\bin\Debug\Synapse X.exe.config
+C:\Users\emac3\Documents\synapsex - Copy\bin\Debug\Synapse X.exe
+C:\Users\emac3\Documents\synapsex - Copy\bin\Debug\Synapse X.pdb
+C:\Users\emac3\Documents\synapsex - Copy\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\emac3\Documents\synapsex - Copy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\emac3\Documents\synapsex - Copy\bin\Debug\System.Buffers.xml
+C:\Users\emac3\Documents\synapsex - Copy\bin\Debug\System.Memory.xml
+C:\Users\emac3\Documents\synapsex - Copy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\emac3\Documents\synapsex - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\emac3\Documents\synapsex - Copy\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\emac3\Documents\synapsex - Copy\obj\Debug\synapsex.csproj.AssemblyReference.cache
+C:\Users\emac3\Documents\synapsex - Copy\obj\Debug\synapsex.OptionsForm.resources
+C:\Users\emac3\Documents\synapsex - Copy\obj\Debug\synapsex.Load.resources
+C:\Users\emac3\Documents\synapsex - Copy\obj\Debug\synapsex.Main.resources
+C:\Users\emac3\Documents\synapsex - Copy\obj\Debug\synapsex.Properties.Resources.resources
+C:\Users\emac3\Documents\synapsex - Copy\obj\Debug\synapsex.ScriptHub.resources
+C:\Users\emac3\Documents\synapsex - Copy\obj\Debug\synapsex.csproj.GenerateResource.cache
+C:\Users\emac3\Documents\synapsex - Copy\obj\Debug\synapsex.csproj.CoreCompileInputs.cache
+C:\Users\emac3\Documents\synapsex - Copy\obj\Debug\synapsex.csproj.Up2Date
+C:\Users\emac3\Documents\synapsex - Copy\obj\Debug\Synapse X.exe
+C:\Users\emac3\Documents\synapsex - Copy\obj\Debug\Synapse X.pdb
+C:\Users\emac3\Documents\synapsex - Copy\obj\Debug\synapsex.csproj.Fody.CopyLocal.cache
+C:\Users\emac3\Documents\synapsex - Copy\obj\Debug\synapsex.csproj.Fody.RuntimeCopyLocal.cache
