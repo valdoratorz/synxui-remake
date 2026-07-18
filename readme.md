@@ -1,4 +1,4 @@
-# synapse x ui remake by gigzaz (@gigzaz)
+# synapse x ui remake by gigzaz (@segcent)
 ## this source is almost **2 years old**, and was modified recently to work with **Scamnapsia**
 * pls star this repo
 
